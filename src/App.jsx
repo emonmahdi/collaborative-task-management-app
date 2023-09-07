@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Collaboration Task Management Application</h1>
+        <h1 className="bg-red-300">Collaboration Task Management Application</h1>
       </div> 
     </>
   )
